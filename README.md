@@ -6,4 +6,5 @@ Learning ground example for interacting with Kubernetes using Go.
 - Minikube
 
 ## How to Run?
-`go run main.go`
+- `minikube start`
+- `go run main.go`
